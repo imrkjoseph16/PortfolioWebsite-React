@@ -20,14 +20,14 @@ export const Experiences = () => {
         <Bloom intensity={0.3} luminanceThreshold={0.1} luminanceSmoothing={0.3} height={300} />
       </EffectComposer>
 
-      <ambientLight intensity={0.2} />
-      <hemisphereLight intensity={0.6} groundColor="white" />
-      <pointLight intensity={0.7} />
+      <ambientLight intensity={3} />
+      <hemisphereLight intensity={1} groundColor="white" />
+      <pointLight intensity={3} />
       <spotLight
-        position={[0, 0, 0]}
+        position={[3, 8, 5]}
         angle={2}
         penumbra={1}
-        intensity={0.5}
+        intensity={3}
         castShadow
         shadow-mapSize={1024} />
 
