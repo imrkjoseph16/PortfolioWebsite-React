@@ -33,8 +33,9 @@ const App = () => {
     <div className="w-full h-full">
       <BrowserRouter>
         <Navbar />
+
+        <Experiences />
       </BrowserRouter>
-      <Experiences />
     </div>
   )
 }

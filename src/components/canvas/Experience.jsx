@@ -31,7 +31,9 @@ export const Experiences = () => {
         castShadow
         shadow-mapSize={1024} />
 
-      <OrbitControls enableZoom={false} />
+      <OrbitControls
+        enablePan={false}
+        enableZoom={false} />
       <ScrollControls pages={4} damping={0.25}>
         <Office />
       </ScrollControls>
