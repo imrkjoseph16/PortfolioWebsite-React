@@ -1,0 +1,11 @@
+Model Information:
+* title:	Asus G501
+* source:	https://sketchfab.com/3d-models/asus-g501-b5de6df714354099ac7678ca49ceb68c
+* author:	iSteven (https://sketchfab.com/OneSteven)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Asus G501" (https://sketchfab.com/3d-models/asus-g501-b5de6df714354099ac7678ca49ceb68c) by iSteven (https://sketchfab.com/OneSteven) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
