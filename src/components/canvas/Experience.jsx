@@ -31,10 +31,6 @@ export const Experiences = () => {
         castShadow
         shadow-mapSize={1024} />
 
-      <Environment
-        preset="warehouse"
-      />
-
       <OrbitControls enableZoom={false} />
       <ScrollControls pages={4} damping={0.25}>
         <Office />
